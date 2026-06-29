@@ -1,0 +1,1 @@
+function zoom(i){window.open(i.src,'_blank');}
